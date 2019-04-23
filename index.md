@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to my test page for supporting project documentation.
 
-I'm glad you are here. I plan to talk about ...
+This will be the requirments page, or even the business case page if i would like it so.
+
+
